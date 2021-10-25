@@ -1,3 +1,3 @@
 # spring-learning
-leaflet learning for java application
+spring-learning for java application
 https://start.spring.io/
